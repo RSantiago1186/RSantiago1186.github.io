@@ -1,0 +1,5 @@
+--
+layout: post
+title: My experience with Bloc.
+--
+My experience thus far with bloc has been shaky as I have had a few benefits from Bloc but at the same time have had quite a few drawbacks. For me, Obviously the biggest draw back is the money that you have to put upfront into the bloc program. It isn't a small amount of money, its a big chunk of change. Apart from that, currenty I am only about a quarter of the way through the program... and with that being said I think the program is ok. I have seen other services such as FreeCodeCamp, CodeAcademy, CodeSchool, VikingSchool and so on, and those are all great choices and free with a great community base with tons of helpful members. Bloc itself is great and all but the community seems small and uses many resources from other websites although it charges for it's services when it should have its own program along with its curriculum. I Would say that is my biggest pet peve with the program, when your spending alot of money and they send you to other websites to complete a task, It's sort of like... "What am I paying you for?".
